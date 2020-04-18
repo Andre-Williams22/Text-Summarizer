@@ -1,3 +1,4 @@
 .vscode/
 .DS_Store
 __pycache__/
+en_core_web_sm-2.2.0/
