@@ -13,7 +13,7 @@ Never spend over ten minutes reading an article, essay, dissertation, or book ag
 - Flask 
 - Flask WTForms
 - Postgres 
-- Machine Learning (Spacy)
+- Machine Learning (Sklearn)
 - Bootstrap 
 - HTML 5
 - Javascript
