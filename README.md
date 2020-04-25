@@ -8,7 +8,17 @@ Author: **[Andre-Williams](https://www.linkedin.com/in/andrewilliams22/)**
 ## Description
 Never spend over ten minutes reading an article, essay, dissertation, or book again. This application takes long pieces of texts or paragraphs and uses natural language processing to summarize the text into a coherent and concise read that's straight to the point. 
 
-
+## Technologies 
+- Python
+- Flask 
+- Flask WTForms
+- Postgres 
+- Machine Learning (Spacy)
+- Bootstrap 
+- HTML 5
+- Javascript
+- CSS
+- Heroku
 
 ## Live Preview
 
