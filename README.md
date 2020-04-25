@@ -1,6 +1,6 @@
 # Text-Summarizer Application 
 
-![Text Summarizer Site](https://github.com/Andre-Williams22/Text-Summaryzer/blob/master/static/img/screen.png)
+![Text Summarizer Site](https://github.com/Andre-Williams22/Text-Summarizer/blob/master/static/img/screen.png)
 
 
 Author: **[Andre-Williams](https://www.linkedin.com/in/andrewilliams22/)**
