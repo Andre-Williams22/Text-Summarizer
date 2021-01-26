@@ -8,7 +8,7 @@ from gensim.summarization import summarize
 # Extra Packages
 import spacy 
 import time
-nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('en')
 
 # Web Scrapping Packages
 from bs4 import BeautifulSoup
